@@ -8,7 +8,7 @@ Thaddeus</a></h1>
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-- 🔭 I like to explore new technologies and develop software solutions and quick hacks.\
+- 🔭 I like to explore new technologies and develop software solutions.\
 
 - 🌱 I’m currently Working as a Mobile App (React-Native) developer.
 
