@@ -16,7 +16,7 @@ Thaddeus</a></h1>
 
 - 🌱 I’m currently learning Swift & SwiftUI
 
-- 💬 Ask me about **Native Android (Kotlin/Java) & Reactjs & React-Native & Laravel**
+- 💬 Ask me about **Native Android (Kotlin/Java) | Reactjs | React-Native | Laravel**
 
 ### 🛠 &nbsp;Tech Stack
 
