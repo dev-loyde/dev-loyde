@@ -8,15 +8,15 @@ Thaddeus</a></h1>
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-- 🔭 I like to explore new technologies and develop software solutions.\
+- 🔭 I like to explore new technologies and develop software solutions.
 
-- 🌱 I’m currently Working as a Mobile App (React-Native) developer.
+- 🌱 I’m currently Working as a Mobile App (React-Native) developer at xyz 😉.
 
 - 🤝 I’m available for gigs and freelancing.
 
 - 🌱 I’m currently learning Swift & SwiftUI
 
-- 💬 Ask me about **Native Android (Kotlin/Java) | Reactjs | React-Native | Laravel**
+- 💬 Ask me about **Native Android (Kotlin/Java) | Reactjs | React-Native **
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -35,15 +35,14 @@ Thaddeus</a></h1>
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)&nbsp;
 
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
 <a href="https://github.com/dev-loyde">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=dev-loyde&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dev-loyde&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=dev-loyde&show_icons=true&theme=algolia&count_private=true&include_all_commits=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dev-loyde&layout=compact&theme=algolia"/>
 </a>
 </p>
 
